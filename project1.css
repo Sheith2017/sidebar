@@ -2,6 +2,7 @@ figure{
     display: flex;
     flex-direction: row;
     background: rgb(19, 189, 132);
+    margin: 0px;
 
     
 }
@@ -27,4 +28,6 @@ figcaption{
 }
 body{
     font-family: Bell MT;
+   margin: 0px;
+
 }
