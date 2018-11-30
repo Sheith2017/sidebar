@@ -1,0 +1,30 @@
+figure{
+    display: flex;
+    flex-direction: row;
+    background: rgb(19, 189, 132);
+
+    
+}
+img{
+    position: sticky;
+    top: 25%;
+    height: 90px;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+
+}
+figcaption{
+    background: rgb(192, 226, 245);
+    padding-left: 40px;
+}
+.first_wrapper{
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 7px;
+    background-image: url("https://webgradients.com/public/webgradients_png/035%20Itmeo%20Branding.png")
+    
+}
+body{
+    font-family: Bell MT;
+}
